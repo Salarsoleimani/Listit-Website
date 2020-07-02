@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat;
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url(../font/Montserrat-Regular.ttf);
+  src: url(../font/Montserrat-Bold.ttf);
+}
+.listit {
+  color: white;
+  background-color: #73adf0;
+}
+.listit_wrapper {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+.listit_title {
+  margin-bottom: 20px;
+  font-size: 45px;
+}
+.listit .box_logo {
+  width: 130px;
+  height: 90px;
+}
+.listit .box_question {
+  margin-bottom: 15px;
+  font-size: 23px;
+}
+.listit .box_paragraph {
+  margin-bottom: 10px;
+}
+.listit .box_paragraph:first-child {
+  background: green;
+}
+
+/*# sourceMappingURL=style.css.map */
