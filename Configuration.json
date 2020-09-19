@@ -1,5 +1,7 @@
 {
   "emailSubject": "Feedback",
   "email": "listitappco@gmail.com",
-  "shareText": "Hi,\nI am using Listit. It is amazing and so useful. I taught it would help you too.\nGo visit their website: \nwww.listitapp.co or simply download from Appstore: \nhttps://"
+  "shareText": "Hi,\nI am using Listit. It is amazing and so useful. I taught it would help you too.\nGo visit their website: \nhttps://listitapps.herokuapp.com or simply download from Appstore: \nhttps://",
+  "policyPrivacyUrl": "https://listitapps.herokuapp.com/privacy",
+  "termOfUseUrl": "https://listitapps.herokuapp.com/terms"
 }
